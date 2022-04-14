@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning in Neosoft Technology uuk </h1>
+    <h1>New user Register for DevOps Learning in Neosoft Tech </h1>
     <p>Please fill in this form to create an account for Training hi Rajat.</p>
     <hr>
      
